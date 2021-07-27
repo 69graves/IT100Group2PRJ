@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+# Seattle Central IT100 Group 2 Project Page
 
-You can use the [editor on GitHub](https://github.com/69graves/IT100Group2PRJ/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Goonie
+- Goo goo
 
 ### Markdown
 
