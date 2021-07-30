@@ -1,5 +1,23 @@
 # Seattle Central IT100 Group 2 Project Page
 
+
+How to Use Github
+1.
+2.
+3.
+
+Glossary
+Repository
+Branch
+Clone
+Commit
+Fork
+Pull/push
+Pull requests
+Versioning
+
+
+
 - Goonie
 - Goo goo
 
