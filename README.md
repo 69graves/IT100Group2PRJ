@@ -2,8 +2,8 @@
 
 
 ## How to Use Github
-1.
-2.
+1. <br>
+2. <br>
 3.
 4.
 5.
@@ -12,6 +12,7 @@
 8.
 9.
 10.
+11.
 
 ## Glossary
 - **Repository:** "Repo" for short. Contains all files and revision histories for each project.
