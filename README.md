@@ -14,7 +14,7 @@
 10.
 
 ## Glossary
-- Repository: "Repo" for short. Contains all files and revision histories for each project.
+- **Repository:** "Repo" for short. Contains all files and revision histories for each project.
 - Branch: Copy of the original repository. Updates to branches can be merged into the primary branch  if needed. 
 - Clone: Copy of a repository that's located on the user's device.
 - Commit: History of updates made to files in the repository. You can track down a commit by their ID. 
