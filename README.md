@@ -2,16 +2,13 @@
 
 
 ## How to Use Github
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Create a new repository
+2. Create a branch
+3. Make and commit changes 
+4. Open a pull request
+5. Merge pull request
+
+
 
 ## Glossary
 - **Repository:** "Repo" for short. Contains all files and revision histories for each project.
