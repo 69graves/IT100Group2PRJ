@@ -24,6 +24,12 @@
 - **Versioning:** Recording and tracking the revisions made to a project in its different stages.
 
 
+
+_*Below notes for reference. To be deleted when complete._
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
