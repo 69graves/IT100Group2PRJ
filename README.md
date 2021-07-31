@@ -1,5 +1,4 @@
 # Seattle Central IT100 Group 2 Project Page
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
